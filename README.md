@@ -26,17 +26,17 @@
 
 ## Operating systems I am currently using
 
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/macos.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/ios.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/ubuntu.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/android.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/windows.svg" height="32" />
-</div>
+</a>
 
 ## Languages, tools and frameworks I know
 
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/php.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/python.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/kotlin.svg" height="32" />
@@ -57,16 +57,15 @@
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/laravel.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/angular.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/electron.svg" height="32" />
-</div>
+</a>
 
 ## Write my code using
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/visualstudiocode.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/visualstudio.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/idea.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/icons/badges/xcode.svg" height="32" />
-
-</div>
+</a>
 
 ## My GitHub Stats
 
