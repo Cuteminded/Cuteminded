@@ -1,7 +1,9 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/top.svg"/>
-    <br>
-    <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/typing.svg"/>
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/top.svg"/>
+      <br>
+      <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/typing.svg"/>
+  </a>
 </p>
 
 # 🌸 About Me
@@ -17,7 +19,7 @@ contact: info@lizzy.nu
 
 ### Languages
 
-<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#languages" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/php.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/python.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/kotlin.svg" height="32" />
@@ -31,14 +33,14 @@ contact: info@lizzy.nu
 
 ### Frameworks
 
-<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#frameworks" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/laravel.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/angular.svg" height="32" />
 </a>
 
 ### Databases & Tools
 
-<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#databases--tools" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/mysql.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/postgresql.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/docker.svg" height="32" />
@@ -52,7 +54,7 @@ contact: info@lizzy.nu
 
 ### Editors
 
-<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#editors" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/visualstudiocode.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/visualstudio.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/idea.svg" height="32" />
@@ -61,7 +63,7 @@ contact: info@lizzy.nu
 
 ### Operating Systems
 
-<a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
+<a href="#operating-systems" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/macos.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/ios.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/ubuntu.svg" height="32" />
@@ -131,4 +133,4 @@ contact: info@lizzy.nu
 
 ---
 
-<h2 align="center">💗 thanks for visiting my profile</h2>
+<h2 align="center">Thanks for visiting my profile 💗</h2>
