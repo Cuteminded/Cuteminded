@@ -5,16 +5,18 @@
 </p>
 
 # 🌸 About Me
+
 ```yaml
-    name: Lizzy
-    location: Netherlands
-    role: [Software Developer, Designer]
-    contact: info@lizzy.nu
+name: Lizzy
+location: Netherlands
+role: [Software Developer, Designer]
+contact: info@lizzy.nu
 ```
 
 # Tech Stack
 
 ### Languages
+
 <a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/php.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/python.svg" height="32" />
@@ -28,12 +30,14 @@
 </a>
 
 ### Frameworks
+
 <a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/laravel.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/angular.svg" height="32" />
 </a>
 
 ### Databases & Tools
+
 <a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/mysql.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/postgresql.svg" height="32" />
@@ -47,6 +51,7 @@
 </a>
 
 ### Editors
+
 <a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/visualstudiocode.svg" height="32" />
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/visualstudio.svg" height="32" />
@@ -54,7 +59,8 @@
     <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/xcode.svg" height="32" />
 </a>
 
-###  Operating Systems
+### Operating Systems
+
 <a href="#" style="display:flex;align-items:center;flex-wrap:wrap;gap: 10px;">
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/macos.svg" height="32" />
   <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/badges/ios.svg" height="32" />
@@ -64,6 +70,7 @@
 </a>
 
 # GitHub Stats
+
 <table style="text-align: center;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Cuteminded&show_icons=true&theme=dracula&hide_border=true"/></td>
@@ -72,6 +79,7 @@
  </table>
 
 # Coding Activity
+
 <table style="text-align: center;">
   <tr>
     <td>Top Languages</td>
@@ -83,52 +91,41 @@
   </tr>
  </table>
 
-
 # Find Me Around The Web
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap:15px;">
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://lizzy.nu/@cuteminded" target="_blank" rel="noreferrer">
+
+<div>
+    <a href="https://lizzy.nu/@cuteminded" target="_blank" rel="noreferrer" title="Lizzy.nu">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />
-        <span>lizzy.nu</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://hub.docker.com/u/cuteminded" target="_blank" rel="noreferrer">
+    <a href="https://hub.docker.com/u/cuteminded" target="_blank" rel="noreferrer" title="Docker Hub">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />
-        <span>DockerHub</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://huggingface.co/Cuteminded" target="_blank" rel="noreferrer">
+    <a href="https://huggingface.co/Cuteminded" target="_blank" rel="noreferrer" title="Hugging Face">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />
-        <span>HuggingFace</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://modrinth.com/user/Cuteminded" target="_blank" rel="noreferrer">
+    <a href="https://modrinth.com/user/Cuteminded" target="_blank" rel="noreferrer" title="Modrinth">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />
-        <span>Modrinth</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://packagist.org/packages/cuteminded/" target="_blank" rel="noreferrer">
+    <a href="https://packagist.org/packages/cuteminded/" target="_blank" rel="noreferrer" title="Packagist">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />
-        <span>Packagist</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://wakatime.com/@Cuteminded" target="_blank" rel="noreferrer">
+    <a href="https://wakatime.com/@Cuteminded" target="_blank" rel="noreferrer" title="WakaTime">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />
-        <span>WakaTime</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://discord.com/users/375273261250117652" target="_blank"  rel="noreferrer">
+    <a href="https://discord.com/users/375273261250117652" target="_blank"  rel="noreferrer" title="Discord">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />
-        <span>Discord</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://www.instagram.com/Cutemindedliz/" target="_blank" rel="noreferrer">
+    <a href="https://www.instagram.com/Cutemindedliz/" target="_blank" rel="noreferrer" title="Instagram">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />
-        <span>Instagram</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://x.com/Cutemindedliz" target="_blank" rel="noreferrer">
+    <a href="https://x.com/Cutemindedliz" target="_blank" rel="noreferrer" title="X / Twitter">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />
-        <span>X/Twitter</span>
     </a> 
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://www.twitch.tv/cutemindedliz" target="_blank" rel="noreferrer">
+    <a href="https://www.twitch.tv/cutemindedliz" target="_blank" rel="noreferrer" title="Twitch">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />
-        <span>Twitch</span>
     </a>
-    <a style="display:flex;flex-direction:column;align-items:center;" href="https://steamcommunity.com/profiles/76561198162547563" target="_blank" rel="noreferrer">
+    <a href="https://steamcommunity.com/profiles/76561198162547563" target="_blank" rel="noreferrer" title="Steam">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />
-        <span>Steam</span>
     </a>
 </div>
 
