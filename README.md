@@ -111,6 +111,9 @@ contact: info@lizzy.nu
     <a href="https://packagist.org/packages/cuteminded/" target="_blank" rel="noreferrer" title="Packagist">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />
     </a>
+    <a href="https://www.npmjs.com/~cuteminded" target="_blank" rel="noreferrer" title="NPM">
+        <img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />
+    </a>
     <a href="https://wakatime.com/@Cuteminded" target="_blank" rel="noreferrer" title="WakaTime">
         <img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />
     </a>
