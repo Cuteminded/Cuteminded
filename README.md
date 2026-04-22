@@ -1,12 +1,11 @@
-<p align="center">
-  <a href="#">
-      <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/top.svg"/>
-      <br>
-      <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/typing.svg"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/top.svg"/>
+</div>
 
 # 🌸 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cuteminded/Cuteminded/refs/heads/main/resources/banner/typing.svg"/>
+</div>
 
 ```yaml
 name: Lizzy
@@ -94,45 +93,18 @@ contact: info@lizzy.nu
  </table>
 
 # Find Me Around The Web
-
-<div>
-    <a href="https://lizzy.nu/@cuteminded" target="_blank" rel="noreferrer" title="Lizzy.nu">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />
-    </a>
-    <a href="https://hub.docker.com/u/cuteminded" target="_blank" rel="noreferrer" title="Docker Hub">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />
-    </a>
-    <a href="https://huggingface.co/Cuteminded" target="_blank" rel="noreferrer" title="Hugging Face">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />
-    </a>
-    <a href="https://modrinth.com/user/Cuteminded" target="_blank" rel="noreferrer" title="Modrinth">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />
-    </a>
-    <a href="https://packagist.org/packages/cuteminded/" target="_blank" rel="noreferrer" title="Packagist">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />
-    </a>
-    <a href="https://www.npmjs.com/~cuteminded" target="_blank" rel="noreferrer" title="NPM">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />
-    </a>
-    <a href="https://wakatime.com/@Cuteminded" target="_blank" rel="noreferrer" title="WakaTime">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />
-    </a>
-    <a href="https://discord.com/users/375273261250117652" target="_blank"  rel="noreferrer" title="Discord">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />
-    </a>
-    <a href="https://www.instagram.com/Cutemindedliz/" target="_blank" rel="noreferrer" title="Instagram">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />
-    </a>
-    <a href="https://x.com/Cutemindedliz" target="_blank" rel="noreferrer" title="X / Twitter">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />
-    </a> 
-    <a href="https://www.twitch.tv/cutemindedliz" target="_blank" rel="noreferrer" title="Twitch">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />
-    </a>
-    <a href="https://steamcommunity.com/profiles/76561198162547563" target="_blank" rel="noreferrer" title="Steam">
-        <img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />
-    </a>
-</div>
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />](https://lizzy.nu/@cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />](https://hub.docker.com/u/cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />](https://huggingface.co/Cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />](https://modrinth.com/user/Cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />](https://packagist.org/packages/cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />](https://www.npmjs.com/~cuteminded?activeTab=packages)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />](https://wakatime.com/@Cuteminded)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />](https://discord.com/users/375273261250117652)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />](https://www.instagram.com/Cutemindedliz)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />](https://x.com/Cutemindedliz)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />](https://www.twitch.tv/cutemindedliz)
+[<img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />](https://steamcommunity.com/profiles/76561198162547563)
 
 ---
 
