@@ -93,18 +93,21 @@ contact: info@lizzy.nu
  </table>
 
 # Find Me Around The Web
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />](https://lizzy.nu/@cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />](https://hub.docker.com/u/cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />](https://huggingface.co/Cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />](https://modrinth.com/user/Cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />](https://packagist.org/packages/cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />](https://www.npmjs.com/~cuteminded?activeTab=packages)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />](https://wakatime.com/@Cuteminded)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />](https://discord.com/users/375273261250117652)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />](https://www.instagram.com/Cutemindedliz)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />](https://x.com/Cutemindedliz)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />](https://www.twitch.tv/cutemindedliz)
-[<img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />](https://steamcommunity.com/profiles/76561198162547563)
+
+
+
+
+
+
+
+
+
+
+
+
+
+| [<img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />](https://lizzy.nu/@cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />](https://hub.docker.com/u/cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />](https://huggingface.co/Cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />](https://modrinth.com/user/Cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />](https://packagist.org/packages/cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />](https://www.npmjs.com/~cuteminded?activeTab=packages) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />](https://wakatime.com/@Cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />](https://discord.com/users/375273261250117652) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />](https://www.instagram.com/Cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />](https://x.com/Cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />](https://www.twitch.tv/cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />](https://steamcommunity.com/profiles/76561198162547563) |
+| --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
 
 ---
 
