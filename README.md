@@ -81,30 +81,11 @@ contact: info@lizzy.nu
 
 # Coding Activity
 
-<table style="text-align: center;">
-  <tr>
-    <td>Top Languages</td>
-    <td>Coding Activity over Last 7 Days</td>
-  </tr>
-  <tr>
-    <td>[<img src="https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg" width=1069 alt="Top Languages" />](https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg)</td>
-    <td>[<img src="https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg" width=1069 alt="Coding Activity over Last 7 Days" />](https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg)</td>
-  </tr>
- </table>
+|Top Languages|Coding Activity over Last 7 Days|
+|---|---|
+|[<img src="https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg" width=1069 alt="Top Languages" />](https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg)|[<img src="https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg" width=1069 alt="Coding Activity over Last 7 Days" />](https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg)|
 
 # Find Me Around The Web
-
-
-
-
-
-
-
-
-
-
-
-
 
 | [<img src="https://www.google.com/s2/favicons?sz=64&domain=lizzy.nu" width="32" height="32" />](https://lizzy.nu/@cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=hub.docker.com" width="32" height="32" />](https://hub.docker.com/u/cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=huggingface.co" width="32" height="32" />](https://huggingface.co/Cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=modrinth.com" width="32" height="32" />](https://modrinth.com/user/Cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=packagist.org" width="32" height="32" />](https://packagist.org/packages/cuteminded) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=npmjs.com" width="32" height="32" />](https://www.npmjs.com/~cuteminded?activeTab=packages) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=wakatime.com" width="32" height="32" />](https://wakatime.com/@0332fe04-1a68-4935-9410-fecc544bca2b) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=discord.com" width="32" height="32" />](https://discord.com/users/375273261250117652) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=instagram.com" width="32" height="32" />](https://www.instagram.com/Cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=x.com" width="32" height="32" />](https://x.com/Cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=twitch.tv" width="32" height="32" />](https://www.twitch.tv/cutemindedliz) | [<img src="https://www.google.com/s2/favicons?sz=64&domain=steamcommunity.com" width="32" height="32" />](https://steamcommunity.com/profiles/76561198162547563) |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
