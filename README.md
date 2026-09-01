@@ -87,8 +87,8 @@ contact: info@lizzy.nu
     <td>Coding Activity over Last 7 Days</td>
   </tr>
   <tr>
-    <td><img src="https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg" width=1069 alt="Top Languages" /></td>
-    <td><img src="https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg" width=1069 alt="Coding Activity over Last 7 Days" /></td>
+    <td>[<img src="https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg" width=1069 alt="Top Languages" />](https://wakatime.com/share/@Cuteminded/d06b4db6-0c2b-4256-9be5-e26948152772.svg)</td>
+    <td>[<img src="https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg" width=1069 alt="Coding Activity over Last 7 Days" />](https://wakatime.com/share/@Cuteminded/f0e91de5-ae83-46f9-81d6-e709a659b60f.svg)</td>
   </tr>
  </table>
 
