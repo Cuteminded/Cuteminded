@@ -1,4 +1,5 @@
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 600 50' style='background-color: #00000000;' width='600px' height='50px'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 600 50'
+    style='background-color: #00000000;' width='600px' height='50px'>
     <style>
         @font-face {
             font-family: 'Fira Code';
@@ -10,7 +11,7 @@
     </style>
 
     <path id='path0'>
-        <animate id='d0' attributeName='d' begin='0s;d3.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+        <animate id='d0' attributeName='d' begin='0s;d4.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
     </path>
     <text font-family='"Fira Code", monospace' fill='#F08EA9' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
         <textPath xlink:href='#path0'>Hi I&#039;m Lizzy</textPath>
@@ -19,18 +20,24 @@
         <animate id='d1' attributeName='d' begin='d0.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
     </path>
     <text font-family='"Fira Code", monospace' fill='#F08EA9' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
-        <textPath xlink:href='#path1'> Full-stack builder</textPath>
+        <textPath xlink:href='#path1'>AKA, CuteMinded</textPath>
     </text>
     <path id='path2'>
         <animate id='d2' attributeName='d' begin='d1.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
     </path>
     <text font-family='"Fira Code", monospace' fill='#F08EA9' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
-        <textPath xlink:href='#path2'>I love making cute tools</textPath>
+        <textPath xlink:href='#path2'>Full-stack builder</textPath>
     </text>
     <path id='path3'>
         <animate id='d3' attributeName='d' begin='d2.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
     </path>
     <text font-family='"Fira Code", monospace' fill='#F08EA9' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
-        <textPath xlink:href='#path3'>Also occasionally break production</textPath>
+        <textPath xlink:href='#path3'>I love making cute tools</textPath>
+    </text>
+    <path id='path4'>
+        <animate id='d4' attributeName='d' begin='d3.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h600 ; m0,25 h600 ; m0,25 h0' keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"Fira Code", monospace' fill='#F08EA9' font-size='22' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
+        <textPath xlink:href='#path4'>Also occasionally break production</textPath>
     </text>
 </svg>
